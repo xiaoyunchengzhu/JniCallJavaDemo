@@ -1,2 +1,2 @@
 # JniCallJavaDemo
-Jni 调用 Java demo
+android Jni 调用 Java demo
